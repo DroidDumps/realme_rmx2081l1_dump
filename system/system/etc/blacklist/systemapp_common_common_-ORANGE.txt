@@ -1,0 +1,2 @@
+com.orange.update
+com.orange.aura.oobe

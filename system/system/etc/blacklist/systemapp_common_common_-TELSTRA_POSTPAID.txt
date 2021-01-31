@@ -1,0 +1,1 @@
+com.telstra.mobile.android.mytelstra

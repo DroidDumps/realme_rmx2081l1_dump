@@ -1,0 +1,8 @@
+com.coloros.cloud
+com.android.browser
+com.oppo.market
+com.coloros.ocrscanner
+com.coloros.ocrservice
+com.coloros.translate.engine
+com.coloros.operationtips
+com.google.android.apps.nbu.paisa.user

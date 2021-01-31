@@ -1,0 +1,7 @@
+com.google.android.apps.googleassistant
+com.google.android.apps.nbu.files
+com.google.android.contacts
+com.google.android.dialer
+com.google.android.apps.messaging
+com.google.android.ims
+com.google.android.apps.walletnfcrel

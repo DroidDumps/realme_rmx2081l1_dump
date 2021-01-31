@@ -1,0 +1,5 @@
+com.coloros.cloud
+com.android.browser
+com.oppo.market
+com.jakarta.baca.lite
+com.msd.JTClient
