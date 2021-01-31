@@ -1,0 +1,4 @@
+<permissions>
+    <!-- Wenkan.Zhu@PSW.CN.WiFi.Network.internet.1800709, 2019/01/24, Add for private feature -->
+    <feature name="oppo.wlan.privateDns.support" />
+</permissions>
